@@ -1,0 +1,67 @@
+    .logo {
+        background-color: #ffffff;
+        height: 150px;
+    }
+    
+    div img {
+        height: 130px;
+        width: 130px;
+        padding-top: 25px;
+        margin-left: 50px;
+    }
+    
+    .redes {
+        background-color: #ffffff;
+        height: 150px;
+    }
+    
+    .cabecera {
+        height: 60%;
+    }
+    
+    body {
+        background-color: rgba(100, 61, 17, 0.959);
+    }
+    
+    .red {
+        padding-top: 100px;
+        padding-left: 50px;
+    }
+    
+    .nav {
+        background-color: hsl(44, 77%, 48%);
+        padding: 5px;
+        border-radius: 5px;
+    }
+    
+    .publicaciones {
+        margin-top: 3%;
+        color: black;
+        background-color: white;
+        border-radius: 5px;
+    }
+    
+    .img2 {
+        height: 320px;
+        width: 280px;
+    }
+    
+    .container2 {
+        margin-top: 1%;
+    }
+    
+    .img2b {
+        margin-left: 0px;
+    }
+    
+    .list-group {
+        margin-top: 35px;
+    }
+    
+    .man {
+        border: 1px solid white;
+    }
+    
+    .man1 {
+        font-size: 45px;
+    }

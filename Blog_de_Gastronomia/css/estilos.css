@@ -1,0 +1,164 @@
+body {
+    background: url(https://t2.uc.ltmcdn.com/images/6/0/6/img_como_decorar_un_espacio_con_estilo_minimalista_3606_orig.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.titulo {
+    margin-left: 0px;
+    padding-left: 5px;
+}
+
+.titulo1 {
+    margin-left: 185px;
+}
+
+.container {
+    background-color: hsla(197, 26%, 43%, 0.7);
+    background-size: cover;
+    border-bottom: 1px solid grey;
+}
+
+h1,
+h3 {
+    color: white;
+}
+
+div,
+span .postfix {
+    font-size: 30px;
+    color: #ee8080;
+}
+
+.container2 {
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.principal {
+    border-top: 1px dotted white;
+    margin-top: 50px;
+    padding-left: 25px;
+}
+
+div ul li {
+    font-size: 25px;
+    border: 2px solid hsl(0, 68%, 65%);
+    font-style: bold;
+}
+
+div ul li a {
+    color: hsl(0, 68%, 65%);
+}
+
+.menu {
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.inicio2 {
+    border-top: none;
+    border-bottom: none;
+}
+
+.izquierda {
+    background-color: rgba(173, 189, 223);
+    border-radius: 10px;
+    margin-left: -10px;
+}
+
+.search {
+    height: 50px;
+}
+
+.search1 {
+    margin-left: -10px;
+}
+
+.search2 {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.inicio {
+    border: none;
+}
+
+.favoritos {
+    color: hsl(0, 68%, 65%);
+}
+
+div h4 {
+    margin-left: 4px;
+}
+
+div img {
+    height: 100px;
+    border: 1px solid white;
+}
+
+.comida {
+    margin-top: 20px;
+}
+
+.historial {
+    margin-top: 20px;
+}
+
+.derecha {
+    background-color: #e4d0cef3;
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+div h3 {
+    color: black;
+    margin-top: 8px;
+}
+
+h5 {
+    color: hsl(0, 68%, 65%);
+}
+
+.asado {
+    width: 100%;
+    height: 100%;
+}
+
+.titulo2 {
+    margin-left: 15px;
+}
+
+.h51 {
+    color: black;
+}
+
+.texto_asado {
+    margin-top: 30px;
+}
+
+.comentario1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.icono {
+    padding-left: 20px;
+    margin-bottom: 15px;
+}
+
+.icono2 {
+    font-size: 40px;
+    color: blue;
+}
+
+.redes {
+    color: black;
+}
+
+.container4 {
+    margin-top: 20px;
+}
