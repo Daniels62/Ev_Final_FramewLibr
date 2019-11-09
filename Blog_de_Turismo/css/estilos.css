@@ -1,0 +1,108 @@
+ body {
+     background: url(https://www.guiasbenasque.com/images/programas_y_cursos/VeranoAlpesMontBlanc.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+ }
+ 
+ .header {
+     background-color: rgb(229, 243, 167);
+     height: 180px;
+     background-attachment: fixed;
+     background-size: cover;
+ }
+ 
+ .logo {
+     width: 220px;
+     height: 200px;
+     border-radius: 20px;
+ }
+ 
+ .text {
+     font-size: 10px;
+ }
+ 
+ .caminos {
+     margin-top: 30px;
+ }
+ 
+ .fondo1 {
+     background-color: hsla(210, 9%, 37%, 0.7);
+     background-size: cover;
+ }
+ 
+ .redes {
+     height: 75px;
+     width: 75px;
+     border-radius: 10px;
+ }
+ 
+ .img1 {
+     height: 400px;
+     width: 100%;
+     margin-bottom: 10px;
+ }
+ 
+ .img2 {
+     height: 300px;
+     width: 100%;
+ }
+ 
+ .img3 {
+     height: 800px;
+     width: 100%;
+ }
+ 
+ .img4,
+ .img5,
+ .img6 {
+     height: 280px;
+     width: 100%;
+ }
+ 
+ .img6 {
+     height: 350px;
+     width: 100%;
+     margin-top: 30px;
+ }
+ 
+ .img7 {
+     height: 150px;
+     width: 100%;
+     margin-top: 30px;
+ }
+ 
+ .lorem1,
+ .lula {
+     background-color: white;
+ }
+ 
+ .relato1,
+ .relato2,
+ .relato3 {
+     color: black;
+     font-size: 20px;
+ }
+ 
+ .comentarios {
+     background-color: rgb(229, 243, 167);
+     margin-top: 10px;
+ }
+ 
+ @media (max-width: 900px) {
+     .caminos {
+         color: white !important;
+     }
+     .logo {
+         height: 150px;
+         width: 150px;
+     }
+     .fondo1 {
+         margin-top: -13% !important;
+     }
+     .img3,
+     .img4,
+     .img5 {
+         margin-top: 10px;
+     }
+ }
